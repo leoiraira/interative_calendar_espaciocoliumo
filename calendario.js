@@ -140,3 +140,6 @@ function mifecha() {
               escribirdias() //escribir tabla
               }
          }
+         function reservar_dia(){
+             
+         }
